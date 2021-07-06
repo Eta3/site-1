@@ -1,0 +1,67 @@
+*{
+margin:0%;
+padding:0%;
+}
+
+  /* parte da dimenção*/
+body{
+	background-color:#fff;
+	max-width:100%;
+	min-width:19.375%;
+	width:99%;
+}
+main{
+		background-color:#808080;
+		margin:0px 5px 0px 5px;
+		max-width:100%;
+		min-width:19.375%;
+		width:98%;
+	    min-width:%;
+}
+  /*parte do cabeçalho*/
+header{
+		background-color:#cecece;
+		max-width:100%;
+	    min-width:19.375%;
+		width:100%;
+}
+hgroup{
+		background-color:#c1c1c1;
+		max-width:100%;
+	    min-width:19.375%;
+		width::100%;
+		padding:;
+		
+}
+h1{
+		background-color:#fff000;
+		width:1500% calc(1% + 0.5vw);
+		margin:;
+		padding-left:13%;
+		font-family:;
+		font-size:250%;
+}
+h2{
+		background-color:#f00;
+			width:1500% calc(1% + 0.5vw);
+		margin:;
+		padding-left:14%;
+		font-family:;
+		font-size:200%;
+}
+img{
+		background-color:;
+}
+   /*parte do corpo principal*/
+section{
+		background-color:;
+}
+article#um{
+		background-color:;
+}
+article#dois{
+		background-color:;
+}
+article#tres{
+	
+}
